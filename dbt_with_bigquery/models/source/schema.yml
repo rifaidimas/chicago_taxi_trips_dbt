@@ -1,0 +1,5 @@
+version: 2
+sources:
+    - name: taxi
+      tables:
+        - name: taxi_trips
